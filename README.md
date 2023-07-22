@@ -6,4 +6,4 @@ I created the Simon game for the Javascript section of the course "The Complete 
 - CSS
 - Javascript
 - JQuery
-Visit the site at: https://alisaif541.github.io/Simon-Game/
+<br>Visit the site at: https://alisaif541.github.io/Simon-Game/
